@@ -17,6 +17,7 @@ namespace Marginean_Catalin_Lab10
         {
             InitializeComponent();
 
+
         }
         protected override async void OnAppearing()
         {
