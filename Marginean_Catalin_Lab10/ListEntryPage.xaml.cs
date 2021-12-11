@@ -54,8 +54,9 @@ namespace Marginean_Catalin_Lab10
             await App.Database.DeleteShopListAsync(slist);
             await Navigation.PopAsync();
         }
+        
 
-        }
+    }
 
 
 }
